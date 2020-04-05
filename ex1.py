@@ -1,0 +1,6 @@
+print('hello worlđ')
+print('hello agian')
+print('t like typing this.')
+print("this is fun.")
+print("t'd much mother you 'not'.")
+print('i "said" do not touch this.')
